@@ -1,0 +1,10 @@
+---
+title: iCompete Natural Europe
+timezone: Europe/Prague
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
