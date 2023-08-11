@@ -29,4 +29,4 @@ To edit the  SCSS pipeline, view and edit the file: sass/main.scss
 
 */
 
-footer a {color:beige !important}
+footer#lc-footer a {color:beige !important}
